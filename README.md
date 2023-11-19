@@ -1,6 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Navneet Yadav</h1>
 <h3 align="center">Crafting Digital Excellence: A Passionate Indian Full-Stack Maestro Building Tomorrow's Web, One Project at a Time, Thriving in Team Brilliance</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neet18101&label=Profile%20views&color=0e75b6&style=flat" alt="neet18101" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif" />
 
